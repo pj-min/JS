@@ -1,3 +1,3 @@
 # JS
-some .js snippets embedded in demo .html files.
-examples from MDN javascript learning area.
+Here are some .js snippets embedded in demo .html files.
+They are examples from MDN javascript learning area.

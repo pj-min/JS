@@ -1,2 +1,2 @@
 # JS
-some .js snippets in demo .html files
+some .js snippets embedded in demo .html files.
